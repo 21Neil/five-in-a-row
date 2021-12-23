@@ -1,5 +1,7 @@
 # Five in a row
 
+ https://21neil.github.io/five-in-a-row-pack/
+
 <img src=/preview/fiveInARow.png />
 
 ## Descrpition
